@@ -1,0 +1,1 @@
+{"chart": {"type": "column"}, "xAxis": {"categories": ["<= 1L", "1L to 10L", "10L to 1C", "1C to 10C", "10C <"]}, "series": [{"data": [172254, 128795, 58932, 26342, 8959]}]}

@@ -1,6 +1,5 @@
-function run(){
-    let url = document.getElementById('input').value;
-    fetch(url, { mode: 'no-cors'})
+function plot(name){
+    fetch(window.location.href+name, { mode: 'no-cors'})
     .then(function(resp){
         return resp.json();
     })
