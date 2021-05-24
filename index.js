@@ -3,5 +3,5 @@ fetch(window.location.href+"/data.json", { mode: 'no-cors'})
         return resp.json();
     })
     .then(function(json_data){
-        console.log(json_data);
+        Highcharts.chart('container',json_data);
     });
