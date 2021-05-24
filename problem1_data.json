@@ -1,1 +1,0 @@
-{"chart": {"type": "column"}, "credits": {"enabled": false}, "title": {"text": "Histogram on the authorized capital with given intervals"}, "xAxis": {"categories": ["<= 1L", "1L to 10L", "10L to 1Cr", "1Cr to 10Cr", "10Cr <"]}, "yAxis": {"title": {"text": "No of Authorized Capital"}}, "series": [{"name": "intervals", "data": [172254, 128795, 58932, 26342, 8959]}]}
